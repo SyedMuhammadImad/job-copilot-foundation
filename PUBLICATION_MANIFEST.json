@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-08",
+  "title": "Private resume notes with authenticated owner CRUD",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "359a2aaad8f136728e983eda7ec9f08a8986d1ad58d191889016b916f3d578d1",
+      "bytes": 481
+    },
+    {
+      "path": "BROWSER_VERIFICATION.json",
+      "sha256": "b0615f553964eda84b300b2bc110823779dc817dc0bd006c8ef76c1e92196565",
+      "bytes": 690
+    },
+    {
+      "path": "next-env.d.ts",
+      "sha256": "e462a655754db9df18b4a657454a7b6a88717ffded4e89403b2b3a47c6603fc3",
+      "bytes": 233
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "427d2ac500c288b1907f70c8a3ef977aa683c7a2bddcea37bce7b7980580071a",
+      "bytes": 40096
+    },
+    {
+      "path": "package.json",
+      "sha256": "ec7abef5076a5ffa121c7230f8ac932e533408568c10cb711974d291b0b1eb1c",
+      "bytes": 681
+    },
+    {
+      "path": "proxy.ts",
+      "sha256": "be4036a8f7325332938b60d67cf4ca9ded2d5723b8c524f76a1605ab8bff0338",
+      "bytes": 1598
+    },
+    {
+      "path": "README.md",
+      "sha256": "87a939f1080579cb79e809f2b9a16b5f230655ba35c0b77562bd4bcebf303926",
+      "bytes": 3819
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "54f592ec1598dcf250c69e42f9682f32f7e0a1278c37e95b9e0714f5e0b469b6",
+      "bytes": 699
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "bdbbbbd7ef8d89e2bf88bf3d546ff1c2a27d1d19e0da364089c7d808bafc8350",
+      "bytes": 1073
+    },
+    {
+      "path": "app/globals.css",
+      "sha256": "147b66afab2db9dbafcc4fdaefdd5c171e3dc919e72f0291441b19a4c7166599",
+      "bytes": 1440
+    },
+    {
+      "path": "app/layout.tsx",
+      "sha256": "551abb744abef93d33d4711ad89e50c71b1eedb8120a8f7354adbbb4dfbc020a",
+      "bytes": 336
+    },
+    {
+      "path": "app/page.tsx",
+      "sha256": "5ac00a2659d81c726abf87bbb14361db87eab304a79f28ff3e4a835653dfa420",
+      "bytes": 699
+    },
+    {
+      "path": "lib/config.ts",
+      "sha256": "517f068328f4cb7702d39bf22fbb9bab771a79420f3923cbb4c820b842302fa4",
+      "bytes": 589
+    },
+    {
+      "path": "supabase/schema.sql",
+      "sha256": "73cb31d88aea5fe7870806d1e77d943e7ed0963275c178978c8a7ffae1becd4e",
+      "bytes": 2095
+    },
+    {
+      "path": "tests/browser.test.mjs",
+      "sha256": "7bd76b8faf2c6fc053c29e359e3af553d741da69eae20b052df803610efc92ed",
+      "bytes": 8699
+    },
+    {
+      "path": "tests/mock_supabase.mjs",
+      "sha256": "8fa2e87616d4090ed94d5e72dc5c60ad31366e03cd7aa14ad1ea4b641c471b26",
+      "bytes": 7360
+    },
+    {
+      "path": "tests/rls.test.mjs",
+      "sha256": "7abc848e0dcb3e4c30e3eb4a01bb9ec43c88df59a72b71e15ff220afedbad2c2",
+      "bytes": 4415
+    },
+    {
+      "path": "lib/supabase/client.ts",
+      "sha256": "f002040d38019782dda7b8d9b74eb50e79e417a4734e2c0200467fbf8b41d279",
+      "bytes": 585
+    },
+    {
+      "path": "lib/supabase/server.ts",
+      "sha256": "eee412025d935cde1c8461a1a18583798bc3eab4835defe431b82458bafad21b",
+      "bytes": 1225
+    },
+    {
+      "path": "app/dashboard/AddResumeForm.tsx",
+      "sha256": "485cfc695573edccd9ee01d729f61259f52460ddcc4396c28e99f21e307cc308",
+      "bytes": 1510
+    },
+    {
+      "path": "app/dashboard/NoteEditor.tsx",
+      "sha256": "e8c445a33614b4dc402981edf633fde3f44d24004186181d1f73e6654a92b2c5",
+      "bytes": 2574
+    },
+    {
+      "path": "app/dashboard/page.tsx",
+      "sha256": "e4eceea7bfd083606db9e923b2c91ed03080e892dadc14c86f4c96de7b11ff00",
+      "bytes": 1277
+    },
+    {
+      "path": "app/dashboard/SignOutButton.tsx",
+      "sha256": "8a156b4ce15f57e09c761073f5cae0efe53562417544ac566e71782cbe0efb6f",
+      "bytes": 819
+    },
+    {
+      "path": "app/login/page.tsx",
+      "sha256": "9d268eb37c03b163ec5c676424bf643a6f29567910d57abb29d42a0cf0be1e38",
+      "bytes": 2916
+    }
+  ]
+}

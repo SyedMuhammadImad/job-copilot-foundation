@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "production_build": true,
+  "real_postgres_rls": true,
+  "provider": "local mock with ephemeral ES256 sessions",
+  "cases": [
+    "anonymous redirect",
+    "invalid signin",
+    "valid signin",
+    "safe literal note rendering",
+    "create",
+    "failed save preserves text",
+    "cross-user visibility",
+    "edit",
+    "cancel deletion",
+    "delete",
+    "other-owner preservation",
+    "mobile width",
+    "private cache headers",
+    "expired-session redirect preserves cookie clearing",
+    "signout",
+    "email confirmation stays logged out"
+  ],
+  "limitation": "Hosted Supabase delivery/deployment and real email are not certified"
+}
